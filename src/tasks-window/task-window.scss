@@ -1,0 +1,8 @@
+$border-color: blue;
+.task-window {
+    border: 1px solid $border-color;
+    height: 60vh;
+    overflow: auto;
+    margin: auto;
+    width: 50vw;
+}
